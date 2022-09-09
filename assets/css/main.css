@@ -3460,13 +3460,12 @@ input, select, textarea {
 		font-size: 0.8em;
 	}
 
-	 screen and (max-width: 1280px) {
+	 @media screen and (max-width: 1280px) {
 
-		#intro {
+		#intro{
 			margin: 0 0 3em 0;
 			text-align: center;
 		}
-
 			#intro header h2 {
 				font-size: 2em;
 			}
@@ -3480,7 +3479,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		#intro {
-			margin: 0 0 1.5em 10em;
+			margin: 0 0 1.5em 9em;
 			padding: 1.25em 0;
 		}
 
