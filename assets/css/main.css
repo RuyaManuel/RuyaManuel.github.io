@@ -3507,6 +3507,9 @@ input, select, textarea {
 		margin-left: 35%;
 		margin-bottom: 20%;
 	}
+	#footer{
+		,margin-left: 10%;
+	}
 	
 /* Footer */
 
