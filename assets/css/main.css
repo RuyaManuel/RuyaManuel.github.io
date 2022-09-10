@@ -3507,9 +3507,7 @@ input, select, textarea {
 		margin-left: 35%;
 		margin-bottom: 20%;
 	}
-	#footer{
-		,margin-left: 10%;
-	}
+	
 	
 /* Footer */
 
@@ -3660,6 +3658,9 @@ input, select, textarea {
 			
 			
 			
+			}
+			.icons{
+				margin-left: 30%;
 			}
 			.img-sec{
 				height:6000px ;
